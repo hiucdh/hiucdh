@@ -13,12 +13,6 @@
 
 ---
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/huuhiuuuuuuu)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nghesihaysuy/)
-
----
-
 ## 🧰 Tech Stack
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
@@ -29,35 +23,23 @@
 ---
 
 ## 📌 Featured Flutter Projects
+
 ### 🧾 POS Mobile App
-- Barcode scanning
-- Offline mode with SQLite
-- Clean UI for sales flow
-👉 *(Add screenshots/GIF here)*
+- Barcode scanning  
+- Offline mode with SQLite  
+- Clean UI for sales flow  
 
 ### 📋 Task Manager App
-- BLoC state management
-- REST API integration
-- Authentication flow
-
----
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=hiucdh&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hiucdh&theme=radical&hide_border=false&layout=compact)
+- BLoC state management  
+- REST API integration  
+- Authentication flow  
 
 ---
 
 ## 🔥 Current Challenge
-- 🚀 Build **1 Flutter app per week**
-- 📦 Practice BLoC & Riverpod
-- 🌐 Deploy backend for mobile apps
-
----
-
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🚀 Build **1 Flutter app per week**  
+- 📦 Practice BLoC & Riverpod  
+- 🌐 Connect Flutter with real backend  
 
 ---
 
