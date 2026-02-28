@@ -1,6 +1,5 @@
 ## 👋 Hi there, I'm Hieu
 
-🚀 Flutter Developer | Mobile App Enthusiast  
 🎯 Goal: Become a professional Flutter Developer & build scalable mobile apps  
 
 ---
