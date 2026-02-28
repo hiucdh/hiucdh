@@ -23,23 +23,22 @@
 
 ## 📌 Featured Flutter Projects
 
-### 🧾 POS Mobile App
-- Barcode scanning  
-- Offline mode with SQLite  
-- Clean UI for sales flow  
+## 🚀 Flagship Project
 
-### 📋 Task Manager App
-- BLoC state management  
-- REST API integration  
-- Authentication flow  
+### 🧾 Smart POS Mobile App
+A production-ready POS application built with Flutter following Clean Architecture.
 
----
+**Core features**
+- Barcode scanning & manual product search  
+- Offline-first with SQLite  
+- Cart & checkout flow  
+- Sales history & revenue dashboard  
 
-## 🔥 Current Challenge
-- 🚀 Build **1 Flutter app per week**  
-- 📦 Practice BLoC & Riverpod  
-- 🌐 Connect Flutter with real backend  
+**Advanced features**
+- Authentication (JWT/Firebase)  
+- Sync local data to cloud when online  
+- Dark mode support  
+- Clean Architecture (presentation / domain / data)  
 
----
-
-[![](https://visitcount.itsvg.in/api?id=hiucdh&label=Profile%20Views&color=0&icon=7&pretty=true)](https://visitcount.itsvg.in)
+**Tech stack**
+Flutter • Dart • BLoC/Riverpod • SQLite • REST API • Clean Architecture
